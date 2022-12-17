@@ -17,7 +17,7 @@ const Footer = () => {
           <div className="mb-5 py-5 justify-center flex gap-4">
             <div>
               <a
-                href="https://www.linkedin.com/in/bhuwan-k-c-3784391b9/"
+                href="https://www.linkedin.com/in/bhuwan-chettri-3784391b9/"
                 target="_blank"
                 type="button"
                 className=" rounded-full border-2 border-white text-white leading-normal uppercase hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out w-9 h-9 m-1"
